@@ -1,4 +1,5 @@
 This was one of my projects from a software development class
+This was created in JAVA IDE NetBeans
 
 General Description:
 In this problem you will simulate a multiple printers processing job from a single print queue. To do this you will need to create the following classes:
